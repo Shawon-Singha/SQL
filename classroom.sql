@@ -12,6 +12,4 @@ insert into student values(1,"shawon",22);
 insert into student values(2,"Anik",23);
 
 select * from student;
-
-
-
+drop database college;
